@@ -44,8 +44,5 @@ We welcome contributions from the community! Feel free to fork the repository, m
 ## License
 This project is licensed under the MIT License, granting you the freedom to use, modify, and distribute the software.
 
-## Contact
-For any queries or feedback, please reach out to:
-- **Name:** Aakash Yadav
-- **Email:** ay9878169@gmail.com
+
 
